@@ -1,9 +1,8 @@
-text = """ 
-Twinkle, twinkle, little star,
-	How I wonder what you are! 
-		Up above the world so high,   		
-		Like a diamond in the sky. 
-Twinkle, twinkle, little star, 
-	How I wonder what you are """
-
-print(text)
+import math
+calculate(par){
+	Area = 2*math.pi*par
+	return Area
+}
+r=1.1
+result = calculate(r)
+print(result)
