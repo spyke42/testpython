@@ -1,6 +1,6 @@
 import math
 def calculate(par):
-	Area = 2*math.pi*par
+	Area = math.pi*par*par
 	return Area
 r=1.1
 result = calculate(r)
