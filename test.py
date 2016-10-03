@@ -1,7 +1,7 @@
 import math
-def calculate(par):
-	Area = math.pi*par*par
-	return Area
-r=1.1
-result = calculate(r)
+def reversing(str1):
+	S = str1.split(' ')
+	return S
+r='Hello World'
+result = reversing(r)
 print(result)
