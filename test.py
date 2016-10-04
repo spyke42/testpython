@@ -1,5 +1,5 @@
-number = str(input("Put the number" ))
-list = number.split(',')
-tupels= tuple(list)
-print(list)
-print(tupels)
+text = str(input("Put the text" ))
+list = text.split('.')
+result = list[1]
+print(result)
+
