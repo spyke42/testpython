@@ -1,4 +1,4 @@
 number = input("Put the number" )
-list = numbers.split(',')
+list = number.split(',')
 tupels = tupels(list)
 print(list,tupels)
