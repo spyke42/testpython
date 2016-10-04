@@ -1,3 +1,5 @@
 number = str(input("Put the number" ))
 list = number.split(',')
+tupels= tupel(list)
 print(list)
+print(tupels)
