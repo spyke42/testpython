@@ -1,4 +1,4 @@
-text = str(input("Put the text" ))
+text = str(input("Put the text "))
 list = text.split('.')
 result = list[1]
 print(result)
